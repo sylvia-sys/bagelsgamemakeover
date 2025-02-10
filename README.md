@@ -7,6 +7,8 @@ Bagels is a fun number-guessing game where the player has to guess a secret thre
 - Bagels: No digits are correct.
 
 This version is a Flutter-powered makeover of the classic Bagels game, making it playable on web, desktop, and mobile devices.
+![Original Game](https://github.com/sylvia-sys/bagelsgamemakeover/blob/main/before.png)
+![Make Over Version](https://github.com/sylvia-sys/bagelsgamemakeover/blob/main/after.png)
 
 🚀 Getting Started
  1️⃣ Clone the Repository
